@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "moduleResolution": "node",  // Change "bundler" to "node"
+    "moduleResolution": "node", 
     "target": "ES2017",
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
