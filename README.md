@@ -5,6 +5,8 @@ Hey,
 3D skateboard customizer and landing page built with Next.js 15, Three.js, GSAP, Prismic, TailwindCSS, and TypeScript. Users can design and preview skateboard setups in real time with dynamic 
 Content powered by a headless CMS.
 
+Checkout my 3D skateboard [here](https://3-dskateboards.vercel.app/)
+
 Features:
 
 - Interactive 3D customization using Three.js and shaders
